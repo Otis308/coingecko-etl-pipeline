@@ -1,0 +1,135 @@
+2026-06-06 14:55:12 | INFO | Rows before clean: 250
+2026-06-06 14:55:12 | INFO | Rows: 250
+2026-06-06 14:55:12 | INFO | Duplicates: 0
+2026-06-06 14:55:12 | INFO | Missing market_cap: 0
+2026-06-06 14:55:12 | INFO | Missing current_price: 0
+2026-06-06 14:55:12 | INFO | Missing percentage:
+id                             0.0
+symbol                         0.0
+name                           0.0
+market_cap                     0.0
+current_price                  0.0
+circulating_supply             0.0
+price_change_percentage_24h    0.4
+dtype: float64
+2026-06-06 14:55:12 | WARNING | Duplicate row: 0
+2026-06-06 14:55:12 | INFO | Rows after clean: 250
+2026-06-06 14:55:12 | INFO | Negative prices: 0
+2026-06-06 14:55:12 | INFO | 
+=====================================================
+2026-06-06 14:57:43 | INFO | Rows before clean: 250
+2026-06-06 14:57:43 | INFO | Rows: 250
+2026-06-06 14:57:43 | INFO | Duplicates: 0
+2026-06-06 14:57:43 | INFO | Missing market_cap: 0
+2026-06-06 14:57:43 | INFO | Missing current_price: 0
+2026-06-06 14:57:43 | INFO | Missing percentage:
+id                             0.0
+symbol                         0.0
+name                           0.0
+market_cap                     0.0
+current_price                  0.0
+circulating_supply             0.0
+price_change_percentage_24h    0.4
+dtype: float64
+2026-06-06 14:57:43 | WARNING | Duplicate row: 0
+2026-06-06 14:57:43 | INFO | Rows after clean: 250
+2026-06-06 14:57:43 | INFO | Negative prices: 0
+2026-06-06 14:57:43 | INFO | 
+=====================================================
+2026-06-06 14:59:24 | INFO | Rows before clean: 250
+2026-06-06 14:59:24 | INFO | Rows: 250
+2026-06-06 14:59:24 | INFO | Duplicates: 0
+2026-06-06 14:59:24 | INFO | Missing market_cap: 0
+2026-06-06 14:59:24 | INFO | Missing current_price: 0
+2026-06-06 14:59:24 | INFO | Missing percentage:
+id                             0.0
+symbol                         0.0
+name                           0.0
+market_cap                     0.0
+current_price                  0.0
+circulating_supply             0.0
+price_change_percentage_24h    0.4
+dtype: float64
+2026-06-06 14:59:24 | WARNING | Duplicate row: 0
+2026-06-06 14:59:24 | INFO | Rows after clean: 250
+2026-06-06 14:59:24 | INFO | Negative prices: 0
+2026-06-06 14:59:24 | INFO | 
+=====================================================
+2026-06-06 15:18:52 | INFO | Rows before clean: 250
+2026-06-06 15:18:52 | INFO | Rows: 250
+2026-06-06 15:18:52 | INFO | Duplicates: 0
+2026-06-06 15:18:52 | INFO | Missing market_cap: 0
+2026-06-06 15:18:52 | INFO | Missing current_price: 0
+2026-06-06 15:18:52 | INFO | Missing percentage:
+id                             0.0
+symbol                         0.0
+name                           0.0
+market_cap                     0.0
+current_price                  0.0
+circulating_supply             0.0
+price_change_percentage_24h    0.4
+dtype: float64
+2026-06-06 15:18:52 | WARNING | Duplicate row: 0
+2026-06-06 15:18:52 | INFO | Rows after clean: 250
+2026-06-06 15:18:52 | INFO | Negative prices: 0
+2026-06-06 15:18:52 | INFO | 
+=====================================================
+2026-06-06 15:23:46 | ERROR | Clean step failed: cannot access local variable 'clean_df' where it is not associated with a value
+2026-06-06 15:24:37 | ERROR | Clean step failed: "['id'] not in index"
+2026-06-06 15:26:52 | INFO | Rows before clean: 250
+2026-06-06 15:26:52 | INFO | Rows: 250
+2026-06-06 15:26:52 | INFO | Duplicates: 0
+2026-06-06 15:26:52 | INFO | Missing market_cap: 0
+2026-06-06 15:26:52 | INFO | Missing current_price: 0
+2026-06-06 15:26:52 | INFO | Missing percentage:
+id                             0.0
+symbol                         0.0
+name                           0.0
+market_cap                     0.0
+current_price                  0.0
+circulating_supply             0.0
+price_change_percentage_24h    0.4
+dtype: float64
+2026-06-06 15:26:52 | WARNING | Duplicate row: 0
+2026-06-06 15:26:52 | INFO | Rows after clean: 250
+2026-06-06 15:26:52 | INFO | Negative prices: 0
+2026-06-06 15:26:52 | INFO | 
+=====================================================
+2026-06-06 15:32:50 | INFO | Rows before clean: 250
+2026-06-06 15:32:50 | INFO | Rows: 250
+2026-06-06 15:32:50 | INFO | Duplicates: 0
+2026-06-06 15:32:50 | INFO | Missing market_cap: 0
+2026-06-06 15:32:50 | INFO | Missing current_price: 0
+2026-06-06 15:32:50 | INFO | Missing percentage:
+id                             0.0
+symbol                         0.0
+name                           0.0
+market_cap                     0.0
+current_price                  0.0
+circulating_supply             0.0
+price_change_percentage_24h    0.4
+dtype: float64
+2026-06-06 15:32:50 | WARNING | Duplicate row: 0
+2026-06-06 15:32:50 | INFO | Rows after clean: 250
+2026-06-06 15:32:50 | INFO | Negative prices: 0
+2026-06-06 15:32:50 | INFO | 
+=====================================================
+2026-06-06 15:35:46 | INFO | Rows before clean: 250
+2026-06-06 15:35:46 | INFO | Rows: 250
+2026-06-06 15:35:46 | INFO | Duplicates: 0
+2026-06-06 15:35:46 | INFO | Missing market_cap: 0
+2026-06-06 15:35:46 | INFO | Missing current_price: 0
+2026-06-06 15:35:46 | INFO | Missing percentage:
+id                             0.0
+symbol                         0.0
+name                           0.0
+market_cap                     0.0
+current_price                  0.0
+circulating_supply             0.0
+price_change_percentage_24h    0.4
+dtype: float64
+2026-06-06 15:35:46 | WARNING | Duplicate row: 0
+2026-06-06 15:35:46 | INFO | Rows after clean: 250
+2026-06-06 15:35:46 | INFO | Negative prices: 0
+2026-06-06 15:35:46 | INFO | 
+=====================================================
